@@ -1,0 +1,14 @@
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/bin/Debug/netcoreapp2.2/UserManagementApi.deps.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/bin/Debug/netcoreapp2.2/UserManagementApi.runtimeconfig.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/bin/Debug/netcoreapp2.2/UserManagementApi.runtimeconfig.dev.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/bin/Debug/netcoreapp2.2/UserManagementApi.dll
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/bin/Debug/netcoreapp2.2/UserManagementApi.pdb
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.csprojAssemblyReference.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.csproj.CoreCompileInputs.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.RazorAssemblyInfo.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.RazorAssemblyInfo.cs
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.AssemblyInfoInputs.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.AssemblyInfo.cs
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.RazorTargetAssemblyInfo.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.dll
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/UserManagementApi/obj/Debug/netcoreapp2.2/UserManagementApi.pdb

@@ -1,0 +1,14 @@
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/bin/Debug/netcoreapp2.2/StockManagementApi.deps.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/bin/Debug/netcoreapp2.2/StockManagementApi.runtimeconfig.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/bin/Debug/netcoreapp2.2/StockManagementApi.runtimeconfig.dev.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/bin/Debug/netcoreapp2.2/StockManagementApi.dll
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/bin/Debug/netcoreapp2.2/StockManagementApi.pdb
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.csprojAssemblyReference.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.csproj.CoreCompileInputs.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.RazorAssemblyInfo.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.RazorAssemblyInfo.cs
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.AssemblyInfoInputs.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.AssemblyInfo.cs
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.RazorTargetAssemblyInfo.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.dll
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/StockManagementApi/obj/Debug/netcoreapp2.2/StockManagementApi.pdb

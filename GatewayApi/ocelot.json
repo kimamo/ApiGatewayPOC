@@ -1,0 +1,49 @@
+{
+	"ReRoutes": [
+		{
+			"DownstreamPathTemplate": "/api/orderservice/{catchAll}",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": 7001
+				}
+			],
+			"UpstreamPathTemplate": "/api/orders/{catchAll}",
+			"UpstreamHttpMethod": [
+				"Get"
+			]
+		},
+		{
+			"DownstreamPathTemplate": "/api/cardservice/{catchAll}",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": 7002
+				}
+			],
+			"UpstreamPathTemplate": "/api/stock/{catchAll}",
+			"UpstreamHttpMethod": [
+				"Get"
+			]
+		},
+		{
+			"DownstreamPathTemplate": "/api/userservice/{catchAll}",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": 7003
+				}
+			],
+			"UpstreamPathTemplate": "/api/customers/{catchAll}",
+			"UpstreamHttpMethod": [
+				"Get"
+			]
+		}
+	],
+	"GlobalConfiguration": {
+		"BaseUrl": "https//localhost:7000"
+	}
+}

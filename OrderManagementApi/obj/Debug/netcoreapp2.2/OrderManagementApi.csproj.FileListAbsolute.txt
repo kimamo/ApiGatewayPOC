@@ -1,0 +1,14 @@
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/bin/Debug/netcoreapp2.2/OrderManagementApi.deps.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/bin/Debug/netcoreapp2.2/OrderManagementApi.runtimeconfig.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/bin/Debug/netcoreapp2.2/OrderManagementApi.runtimeconfig.dev.json
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/bin/Debug/netcoreapp2.2/OrderManagementApi.dll
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/bin/Debug/netcoreapp2.2/OrderManagementApi.pdb
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.csprojAssemblyReference.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.csproj.CoreCompileInputs.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.RazorAssemblyInfo.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.RazorAssemblyInfo.cs
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.AssemblyInfoInputs.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.AssemblyInfo.cs
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.RazorTargetAssemblyInfo.cache
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.dll
+/Users/kimamo/Google Drive/codebase/ApiGatewayPOC/OrderManagementApi/obj/Debug/netcoreapp2.2/OrderManagementApi.pdb
